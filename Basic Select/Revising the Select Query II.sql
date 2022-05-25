@@ -1,0 +1,1 @@
+Select NAME from CITY where CountryCode='USA' AND POPULATION>120000;
